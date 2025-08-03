@@ -1,6 +1,6 @@
 import React from "react";
 import console from "../assets/images/console.jpg";
-import headpho from "../assets/images/headPhone.jpg";
+import headpho from "../assets/images/headphone.jpg";
 import ear from "../assets/images/ear.jpg";
 import cont from "../assets/images/cont.jpg";
 import tancos from "../assets/images/tancons.jpg";
